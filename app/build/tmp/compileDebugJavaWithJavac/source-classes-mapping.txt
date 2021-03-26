@@ -1,0 +1,9 @@
+com/example/study10/BuildConfig.java
+ com.example.study10.BuildConfig
+com/example/study10/MainActivity.java
+ com.example.study10.MainActivity
+ com.example.study10.MainActivity$1
+ com.example.study10.MainActivity$1$1
+ com.example.study10.MainActivity$1$2
+ com.example.study10.MainActivity$2
+ com.example.study10.MainActivity$Singer
